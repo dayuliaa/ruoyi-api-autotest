@@ -1,0 +1,57 @@
+# PyCharm IDE文件
+.idea/
+*.iml
+*.iws
+*.out
+.DS_Store
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# allure测试报告（运行生成，不用提交）
+allure-results/
+allure-report/
+
+# pytest临时缓存
+.pytest_cache/
+
+# 日志、临时文件
+*.log
+tmp/
+temp/# PyCharm IDE文件
+.idea/
+*.iml
+*.iws
+*.out
+.DS_Store
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# allure测试报告（运行生成，不用提交）
+allure-results/
+allure-report/
+
+# pytest临时缓存
+.pytest_cache/
+
+# 日志、临时文件
+*.log
+tmp/
+temp/

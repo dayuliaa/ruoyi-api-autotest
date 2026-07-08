@@ -1,2 +1,0 @@
-不带Token的响应状态码: 200
-不带Token的响应内容: {"msg":"请求访问：/system/user/list，认证失败，无法访问系统资源","code":401}
